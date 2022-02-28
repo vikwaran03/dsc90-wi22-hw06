@@ -9,3 +9,5 @@ Creating a choropleth to visualize population size based on France's departments
  -->
 
 <iframe src='snow-map.html' width=600 height=500 frameBorder=0></iframe>
+<iframe src='plotly-galton_fig.html' width=600 height=500 frameBorder=0></iframe>
+<iframe src='plotly-france_fig.html' width=600 height=500 frameBorder=0></iframe>
